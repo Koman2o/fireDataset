@@ -1,0 +1,11 @@
+assignment1/bin/
+assignment1/lib/
+assignment1/include/
+assignment1/pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.ipynb_checkpoints/
